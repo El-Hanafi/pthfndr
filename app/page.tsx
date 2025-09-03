@@ -78,7 +78,7 @@ export default function Home() {
             alt="Logo"
             width={1000}
             height={1000}
-            className="w-28"
+            className="w-40"
           />
         </Link>
 
